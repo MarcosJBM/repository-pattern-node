@@ -4,7 +4,9 @@
   "description": "Using the Repository Pattern in Node.js with TypeScript and Prisma",
   "main": "index.js",
   "scripts": {
-    "start:dev": "tsx watch src/server.ts"
+    "start:dev": "tsx watch src/server.ts",
+    "lint": "eslint --fix .",
+    "pretty": "prettier --write ."
   },
   "keywords": [
     "node",
