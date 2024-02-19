@@ -1,0 +1,28 @@
+{
+  "name": "repository-pattern-node",
+  "version": "0.0.1",
+  "description": "Using the Repository Pattern in Node.js with TypeScript and Prisma",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "tsx watch src/server.ts"
+  },
+  "keywords": [
+    "node",
+    "typescript"
+  ],
+  "author": {
+    "email": "marcosjbotene@gmail.com",
+    "name": "Marcos Botene"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "4.26.1",
+    "prisma": "5.9.1"
+  },
+  "devDependencies": {
+    "eslint": "8.56.0",
+    "prettier": "3.2.5",
+    "tsx": "4.7.1",
+    "typescript": "5.3.3"
+  }
+}
