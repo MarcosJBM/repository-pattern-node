@@ -9,9 +9,10 @@
     "pretty": "prettier --write ."
   },
   "keywords": [
-    "node",
+    "nodejs",
     "typescript",
-    "prisma"
+    "prisma",
+    "repository-pattern"
   ],
   "author": {
     "email": "marcosjbotene@gmail.com",
