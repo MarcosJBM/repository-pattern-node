@@ -10,7 +10,8 @@
   },
   "keywords": [
     "node",
-    "typescript"
+    "typescript",
+    "prisma"
   ],
   "author": {
     "email": "marcosjbotene@gmail.com",
